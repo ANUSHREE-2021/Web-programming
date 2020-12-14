@@ -1,4 +1,4 @@
-first of all,i installed the latest git version from the website->"https://git-scm.com/downloads" and then downloaded the version 2.29.2. 
+First of all,i installed the latest git version from the website->"https://git-scm.com/downloads" and then downloaded the version 2.29.2. 
 It got installed in my system extracting the neccessary files. Then i created an account in github following the website github.com and then created a remote repository for web programming.
 After the installation of git i initialized the git using command "git init" and it was initialized in one of my local drives named ".git".
 Then i configured git by using "git config" command providing the username and email.
